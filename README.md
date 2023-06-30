@@ -40,11 +40,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div>
+<div align="center">
   <br>
-<a href="https://github.com/DanilZinnurov/certificates"
+<h2><a href="https://github.com/DanilZinnurov/certificates"
      title="Сертификаты о моем дополнительном образовании">Сертификаты о прохождении курсов
-  </a>
+  </a></h2>
 </div>
 
 ### :fire: Статистика :
