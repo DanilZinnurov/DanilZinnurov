@@ -40,6 +40,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<div>
+  <br>
+<a href="https://github.com/DanilZinnurov/certificates"
+     title="Сертификаты о моем дополнительном образовании">Сертификаты о прохождении курсов
+  </a>
+</div>
+
 ### :fire: Статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanilZinnurov&theme=dark&background=000000)](https://git.io/streak-stats)
 
