@@ -40,6 +40,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<div><p></p></div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilZinnurov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <br>
 <h2><a href="https://github.com/DanilZinnurov/certificates"
@@ -49,7 +53,7 @@
 
 __________________________________________________________________________________________________________________________
 
-<p align="center"> Проекты Data Science. </p align="center">
+<h2><p align="center">Проекты Data Science.</p align="center"></h2>
 
 
 | **Проект** | **Описание** |
@@ -60,7 +64,7 @@ ________________________________________________________________________________
 | [04. Предсказание возраста крабов с помощью ML.](https://nbviewer.org/github/DanilZinnurov/Kaggle_competition_Crab_age/blob/main/Regression%20with%20a%20Crab%20Age%20Dataset.ipynb)|Соревнование на Kaggle, где необходимо предсказать какого возраста краб. |
 __________________________________________________________________________________________________________________________
 
-<p align="center"> Визуализация данных. </p align="center">
+<h2><p align="center"> Визуализация данных. </p align="center"></h2>
 
 
 | **Проект** | **Описание** |
@@ -70,7 +74,7 @@ ________________________________________________________________________________
 | [03. График самых популярных GitHub репозиториев.](https://github.com/DanilZinnurov/Top_starred_guthub_rep/blob/main/Top_starred_github.ipynb)|Необходимо с помощью API сайта GitHub запарсить данные о репозиториях на GitHub, где больше всего звезд. Затем визуализировать эти данные с помощью библиотеки Plotly.|
 __________________________________________________________________________________________________________________________
 
-<p align="center"> Другие программы </p align="center">
+<h2><p align="center"> Другие программы. </p align="center"></h2>
 
 
 | **Проект** | **Описание** |
@@ -81,4 +85,3 @@ ________________________________________________________________________________
 | [04. Микросервис для сборки логов с веба.](https://github.com/DanilZinnurov/Service)|Реализация микросервиса, который поднимает сервер и по web-socket соединению принимает логи и записывает их в файл в JSON формате.|
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilZinnurov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
