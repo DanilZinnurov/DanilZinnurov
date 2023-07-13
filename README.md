@@ -47,7 +47,38 @@
   </a></h2>
 </div>
 
-### :fire: Статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanilZinnurov&theme=dark&background=000000)](https://git.io/streak-stats)
+__________________________________________________________________________________________________________________________
+
+<p align="center"> Проекты Data Science. </p align="center">
+
+
+| **Проект** | **Описание** |
+| -------------------- | :--------------------- |
+| [01. Реализация класса собственной линейной регрессии.](https://github.com/DanilZinnurov/Realization_of_the_linear_regression/blob/main/Realization_of_the_linear_regression.ipynb)|Необходимо написать класс линейной регрессии, а затем проверить его работоспособность сравнив с регрессией из scikit-learn.|
+| [02. Предсказание оттока пользователей.](https://github.com/DanilZinnurov/Kaggle_competitions_Predicting_churn_of_users/blob/main/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.ipynb)|Соревнование на Kaggle, где необходимо предсказать уйдет ли в будущем наш пользователь, или останется с нашей компанией. Занимался визуализацией данных и обучением модели CatBoost|
+| [03. Предсказание размера трат для каждого пользователя во время черной пятницы в магазине AppStore.](https://github.com/DanilZinnurov/App_Store_Black_Friday/blob/main/Black_Friday_in_App_Store.ipynb)|Соревнование на Kaggle, где я занимался анализом, визуализацией данных и обучением модели машинного обучения.|
+| [04. Предсказание возраста крабов с помощью ML.](https://nbviewer.org/github/DanilZinnurov/Kaggle_competition_Crab_age/blob/main/Regression%20with%20a%20Crab%20Age%20Dataset.ipynb)|Соревнование на Kaggle, где необходимо предсказать какого возраста краб. |
+__________________________________________________________________________________________________________________________
+
+<p align="center"> Визуализация данных. </p align="center">
+
+
+| **Проект** | **Описание** |
+| -------------------- | :--------------------- |
+| [01. Построение воронки продаж.](https://github.com/DanilZinnurov/Sales_funnel_of_the_quest/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.ipynb)|Необходимо сформировать запрос к базе данных и достать данные о количестве пользователей на каждом этапе воронки. Затем необходимо было построить воронку продаж и проанализировать возможные точки роста.|
+| [02. Построение треугольника Серпинского.](https://github.com/DanilZinnurov/Sierpincky_triangle/blob/main/Sierpincky_triangle.ipynb)|Красивая визуализация одного из известных фракталов, который отрисовывается в режиме реального времени.|
+| [03. График самых популярных GitHub репозиториев.](https://github.com/DanilZinnurov/Top_starred_guthub_rep/blob/main/Top_starred_github.ipynb)|Необходимо с помощью API сайта GitHub запарсить данные о репозиториях на GitHub, где больше всего звезд. Затем визуализировать эти данные с помощью библиотеки Plotly.|
+__________________________________________________________________________________________________________________________
+
+<p align="center"> Другие программы </p align="center">
+
+
+| **Проект** | **Описание** |
+| -------------------- | :--------------------- |
+| [01. Программа для конвертация MP4 файлов в MP3.](https://github.com/DanilZinnurov/mp4_to_mp3)|Использую программу для конвертации видео-подкастов по аналитике данных в MP3 формат, чтобы можно было слушать в пути.|
+| [02. Space game на Python.](https://github.com/DanilZinnurov/Space_game)|2D игра, где необходимо отбиваться от нашествия пришельцев, написанная с помощью библиотеки PyGame. Также был сформирован .exe образ для более простого использования пользователями.|
+| [03. Программа для отеля.](https://github.com/DanilZinnurov/Hostel_program)|Программа для отеля, в которой присутствует необходимый функционал для регистрации, удаления, заселения, выселения пользователей, для добавления и удаления номеров. В программе реализованны АВЛ-дерево, связный список и Hash mapа. Так же используются алгоритмы для взаимодействия с этими структурами данных.|
+| [04. Микросервис для сборки логов с веба.](https://github.com/DanilZinnurov/Service)|Реализация микросервиса, который поднимает сервер и по web-socket соединению принимает логи и записывает их в файл в JSON формате.|
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilZinnurov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
